@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" href="https://www.youtube.com/channel/UCzZALfRhFNE0Y1WH-0-0Yeg"/>
   </a>
 </div>
 
