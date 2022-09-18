@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ```
 > Subscribe to my channel, 
-[[YouTube]([https://pages.github.com/]())]([url](https://www.youtube.com/channel/UCzZALfRhFNE0Y1WH-0-0Yeg/))
+[https://www.youtube.com/channel/UCzZALfRhFNE0Y1WH-0-0Yeg/](url)
 
 > Follow me on CodePen,
 https://codepen.io/search/pens?q=amiru+weerathunga
