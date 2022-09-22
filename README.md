@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
-
 # I created this to hone my skills in programme writing and to improve my knowledge of programming.
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
