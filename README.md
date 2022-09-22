@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # I created this to hone my skills in programme writing and to improve my knowledge of programming.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ```
 - Subscribe to my channel - https://www.youtube.com/channel/UCzZALfRhFNE0Y1WH-0-0Yeg/
 
