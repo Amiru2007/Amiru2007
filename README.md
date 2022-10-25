@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 - Follow me on Medium - https://medium.com/@amiru.upek.weerathunga
 
+- Follow me on Dev - https://dev.to/amiruweerathunga
+<br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amiru2007&theme=dark&background=000000)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiru2007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
