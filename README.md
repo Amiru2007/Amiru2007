@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # I created this to hone my skills in programme writing and to improve my knowledge of programming.
 
-```
 - Subscribe to my channel - https://www.youtube.com/channel/UCzZALfRhFNE0Y1WH-0-0Yeg/
 
 - Follow me on CodePen - https://codepen.io/search/pens?q=amiru+weerathunga
@@ -23,8 +22,5 @@ Here are some ideas to get you started:
 - Follow me on GitHub - https://github.com/Amiru2007/Taxila-Central-College-Website-2
 
 - Follow me on Medium - https://medium.com/@amiru.upek.weerathunga
-```
-
-This site was built using [GitHub Pages](https://pages.github.com/).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amiru2007&theme=dark&background=000000)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiru2007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
