@@ -20,7 +20,7 @@ I'm currently learning
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amiru2007&limit=5&theme=oldie&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Amiru2007&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="100%"/>
