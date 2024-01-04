@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/81/34/08/81340844a99a35cc7993166cbd9b5866.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amiru Weerathunga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
