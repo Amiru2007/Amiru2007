@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Python Flask**
 
-- 📝 I regularly write articles on [Dev.to](https://dev.to/amiru_weerathunga)
-
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **amirupek.w33rathunga@gmail.com**
