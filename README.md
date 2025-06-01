@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiru2007&label=Profile%20views&color=0e75b6&style=flat" alt="amiru2007" /> </p> -->
 
-- 🔭 I’m currently working on [Js Calculator](https://github.com/Amiru2007/JS-Calculator-By-Amiru2007)
+- 🔭 I’m currently working on [Krew](https://github.com/Amiru2007/Frost)
 
 - 🌱 I’m currently learning **Python Flask**
 
@@ -19,7 +19,7 @@
   <a href="#contact">Contact</a>
 </nav>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
